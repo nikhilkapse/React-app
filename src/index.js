@@ -5,7 +5,7 @@ import { render } from "react-dom";
 
 render(
   <h1>
-    <center>Hello World</center>
+    <center>Hey Hello World</center>
   </h1>,
   document.getElementById("root")
 );
