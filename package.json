@@ -24,8 +24,8 @@
   "scripts": {
     "start": "webpack-dev-server --open --mode development",
     "build": "webpack --mode development",
-    "test": "react-scripts test --env=jsdom",
-    "eject": "react-scripts eject"
+    "test": "",
+    "eject": ""
   },
   "browserslist": {
     "production": [
